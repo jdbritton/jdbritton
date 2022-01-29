@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jdbritton - I'm totally a fox, just look at the profile pic.
-- 👀 I’m interested in Python, Powershell, and sometimes Rust. 
+- 👀 I’m interested in Python, Powershell, VBscript, bash, C#, and sometimes Rust. 
 - 🌱 I’m currently learning the above!
 - 💞️ I’m looking to collaborate on whatever I genuinely feel I can assist with, but I mostly just fool around with code and hack together solutions for my dayjob.
 - 📫 How to reach me? You either know, or ya don't. <3 
